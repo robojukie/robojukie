@@ -1,6 +1,8 @@
 - 👋 Hi, I’m Julie
 - 👩🏻‍💻 I’m interested in all things UX and front end development
 - 👀 take a look at my design [portfolio](https://juliepaik.com/){:target="_blank"}
+- <a href="example.com" target="_blank">New Tab</a>
+
 - 🌱 I’m currently working on building and prototyping with Claude Code
 - 💞️ I’m looking to collaborate on B2B enterprise projects
 - 📫 email me at julieSpaik@gmail.com
